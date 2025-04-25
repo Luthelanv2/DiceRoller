@@ -1,0 +1,14 @@
+d:\Coding_Documents\C#\RollTheDice\bin\Debug\net9.0\RollTheDice.exe
+D:\Coding_Documents\C#\RollTheDice\bin\Debug\net9.0\RollTheDice.deps.json
+D:\Coding_Documents\C#\RollTheDice\bin\Debug\net9.0\RollTheDice.runtimeconfig.json
+d:\Coding_Documents\C#\RollTheDice\bin\Debug\net9.0\RollTheDice.dll
+d:\Coding_Documents\C#\RollTheDice\bin\Debug\net9.0\RollTheDice.pdb
+d:\Coding_Documents\C#\RollTheDice\obj\Debug\net9.0\RollTheDice.GeneratedMSBuildEditorConfig.editorconfig
+d:\Coding_Documents\C#\RollTheDice\obj\Debug\net9.0\RollTheDice.AssemblyInfoInputs.cache
+d:\Coding_Documents\C#\RollTheDice\obj\Debug\net9.0\RollTheDice.AssemblyInfo.cs
+d:\Coding_Documents\C#\RollTheDice\obj\Debug\net9.0\RollTheDice.csproj.CoreCompileInputs.cache
+d:\Coding_Documents\C#\RollTheDice\obj\Debug\net9.0\RollTheDice.dll
+d:\Coding_Documents\C#\RollTheDice\obj\Debug\net9.0\refint\RollTheDice.dll
+d:\Coding_Documents\C#\RollTheDice\obj\Debug\net9.0\RollTheDice.pdb
+D:\Coding_Documents\C#\RollTheDice\obj\Debug\net9.0\RollTheDice.genruntimeconfig.cache
+D:\Coding_Documents\C#\RollTheDice\obj\Debug\net9.0\ref\RollTheDice.dll
